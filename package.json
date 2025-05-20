@@ -2,7 +2,7 @@
   "name": "swaveui",
   "version": "0.0.1",
   "description": "SwaveUI is a versatile CSS framework designed to simplify the process of creating beautiful and responsive user interfaces and websites.",
-  "main": "index.js",
+  "main": "dist/css/swaveui.min.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -33,7 +33,7 @@
   "bugs": {
     "url": "https://github.com/toubielawbar/swaveui/issues"
   },
-  "homepage": "https://github.com/toubielawbar/swaveui#readme",
+  "homepage": "https://swaveui.com",
   "devDependencies": {
     "gulp": "^5.0.0",
     "gulp-clean-css": "^4.3.0",

@@ -53,11 +53,11 @@ yarn install swaveui-utiltiies
 After installation, you can import the CSS file into your project using this snippet:
 
 ```sh
-import 'swaveui/dist/swaveui.min.css';
+import 'swaveui/dist/swaveui.min.css'
 ```
 
 ```sh
-import 'swaveui/dist/swaveui-utilities.min.css';
+import 'swaveui/dist/swaveui-utilities.min.css'
 ```
 
 ### CDN
