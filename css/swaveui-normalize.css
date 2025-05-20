@@ -1,0 +1,196 @@
+/*!
+ * SwaveUI v1.0.1 (https://swave-ui.com)
+ * Copyright 2025 Oluwatobi H. Giwa
+ * Licensed under MIT (https://github.com/toubielawbar/swaveui/blob/main/LICENSE)
+ */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--sw-font-family), "serif";
+  font-size: var(--sw-font-size);
+  font-weight: var(--sw-font-weight);
+  line-height: var(--sw-line-height);
+  background-color: #FFFFFF;
+  color: #36454F;
+  margin: 0;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[tab-index="-1"]:focus {
+  outline: none;
+  border: none;
+}
+
+abrr[title], abbr[data-original-title] {
+  cursor: help;
+  text-decoration: underline dotted !important;
+  border-bottom: 0;
+}
+
+a {
+  -webkit-text-decoration-skip: objects;
+  background-color: transparent;
+}
+a:not([href]):not([class]), a:not([href]):not([class]):hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+a, area, button, input, label, select, textarea {
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+}
+
+blockquote, pre, tr, img {
+  page-break-inside: avoid;
+}
+
+blockquote, pre, code, figure, ol, ul, li, dl, dd, form, fieldset, legend, input, textarea, button, article, aside, details, figcaption, footer, header, main, menu, nav, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 500 !important;
+  line-height: 1.2 !important;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: inherit;
+}
+
+h1 {
+  font-size: calc(1.4rem + 1.5vw);
+}
+
+h2 {
+  font-size: calc(1.35rem + 0.9vw);
+}
+
+h3 {
+  font-size: calc(1.325rem + 0.6vw);
+}
+
+h4 {
+  font-size: calc(1.3rem + 0.3vw);
+}
+
+h5 {
+  font-size: 1.25rem;
+}
+
+h6 {
+  font-size: 1rem;
+}
+
+hr {
+  margin: 1rem 0;
+  color: inherit;
+  border: 0;
+  border-top: 1px solid;
+  opacity: 0.25;
+}
+
+p, ol, dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+button:focus:not(:focus-visible) {
+  outline: none;
+}
+
+button:not(:disabled),
+[type=button]:not(:disabled),
+[type=reset]:not(:disabled),
+[type=submit]:not(:disabled),
+[role=button],
+summary {
+  cursor: pointer;
+}
+
+button,
+[type=button],
+[type=reset],
+[type=submit],
+::-webkit-file-upload-button {
+  -webkit-appearance: button;
+}
+
+::-webkit-file-upload-button {
+  font: inherit;
+}
+
+::-webkit-inner-spin-button {
+  height: auto;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+img {
+  border-style: none;
+  vertical-align: middle;
+}
+
+fieldset {
+  min-width: 0;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+button, input, select, textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  background: transparent;
+}
+
+select {
+  word-wrap: normal;
+}
+
+textarea {
+  resize: vertical;
+}
+
+label {
+  display: block;
+}
+
+sub, sup {
+  vertical-align: baseline;
+  position: relative;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  caption-side: bottom;
+  width: 100%;
+}
+
+th {
+  text-align: inherit;
+  text-align: -webkit-match-parent;
+}
+
+thead, tbody, tfoot, tr, td, th {
+  border-color: inherit;
+  border-style: solid;
+  border-width: 0;
+}
+
+progress {
+  vertical-align: baseline;
+}
+
+/*# sourceMappingURL=swaveui-normalize.css.map */

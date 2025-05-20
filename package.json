@@ -1,0 +1,43 @@
+{
+  "name": "swaveui",
+  "version": "0.0.1",
+  "description": "SwaveUI is a versatile CSS framework designed to simplify the process of creating beautiful and responsive user interfaces and websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toubielawbar/swaveui.git"
+  },
+  "keywords": [
+    "css",
+    "utility",
+    "frontend",
+    "ui",
+    "swave",
+    "responsive",
+    "mobile",
+    "design",
+    "component",
+    "typography",
+    "js",
+    "stylesheet",
+    "template",
+    "layout",
+    "grid",
+    "flexbox"
+  ],
+  "author": "Oluwatobi H. Giwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toubielawbar/swaveui/issues"
+  },
+  "homepage": "https://github.com/toubielawbar/swaveui#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
