@@ -3,13 +3,9 @@
 SwaveUI is a versatile CSS framework designed to simplify the process of creating beautiful and responsive user interfaces and websites. With a rich set of utilities, helpers, and components, SwaveUI empowers developers to build engaging and functional web experiences efficiently.
 
 <a href="https://swaveui.com/docs" target="_blank"><strong>Documentation</strong></a>
-
 ![Github](https://img.shields.io/github/v/release/toubielawbar/swaveui?logo=SwaveUI)
-
 [![npm version](https://img.shields.io/npm/v/swaveui?logo=npm&logoColor=fff)](https://www.npmjs.com/package/swaveui)
-
 [![Build Status](https://img.shields.io/github/actions/workflow/status/toubielawbar/swaveui/js.yml?branch=main&label=JS%20Tests&logo=github)](https://github.com/toubielawbar/swaveui/actions/workflows/js.yml?query=workflow%3AJS+branch%3Amain)
-
 [![npm](https://img.shields.io/npm/dm/swaveui.svg)]
 [![](https://data.jsdelivr.com/v1/package/npm/swaveui/badge)](https://www.jsdelivr.com/package/npm/swaveui)
 
@@ -37,9 +33,17 @@ SwaveUI is a versatile CSS framework designed to simplify the process of creatin
 npm install swaveui
 ```
 
+```sh
+npm install swaveui-utilities
+```
+
 ### Yarn
 ```sh
 yarn install swaveui
+```
+
+```sh
+yarn install swaveui-utiltiies
 ```
 
 **OR**
@@ -49,6 +53,10 @@ After installation, you can import the CSS file into your project using this sni
 
 ```sh
 import 'swaveui/dist/swaveui.min.css';
+```
+
+```sh
+import 'swaveui/dist/swaveui-utilities.min.css';
 ```
 
 ### CDN
@@ -64,8 +72,7 @@ Here’s how you can get involved:
 
 - Join the Discussion
 Engage with other users, ask questions, share ideas, and get help:
-- <a href="https://github.com/toubielawbar/discussions">GitHub Discussions</a>
-- <a href="https://x.com/swaveUI">Twitter / X — Stay updated on news and releases.</a>
+- <a href="https://x.com/swaveUI">Twitter / X </a> — Stay updated on news and releases.
 
 - Contribute
 Swave UI is open-source and welcomes contributions of all kinds—bug reports, feature requests, design tweaks, or new components. See our Contributing Guide for more.
