@@ -1,6 +1,6 @@
 {
   "name": "swaveui",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "SwaveUI is a versatile CSS framework designed to simplify the process of creating beautiful and responsive user interfaces and websites.",
   "main": "dist/js/swaveui.min.js",
   "style": "dist/css/swaveui.min.css",
@@ -44,7 +44,6 @@
       "url": "https://opencollective.com/swaveui"
     }
   ],
-
   "homepage": "https://swaveui.com",
   "devDependencies": {
     "gulp": "^5.0.0",
