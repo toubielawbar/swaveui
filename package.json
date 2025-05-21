@@ -1,6 +1,6 @@
 {
   "name": "swaveui",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "SwaveUI is a versatile CSS framework designed to simplify the process of creating beautiful and responsive user interfaces and websites.",
   "main": "dist/",
   "scripts": {
