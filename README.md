@@ -4,9 +4,10 @@ SwaveUI is a versatile CSS framework designed to simplify the process of creatin
 
 <a href="https://swaveui.com/docs" target="_blank"><strong>Documentation</strong></a>
 
-![Github](https://img.shields.io/github/v/release/toubielawbar/swaveui?logo=SwaveUI)
 [![npm version](https://img.shields.io/npm/v/swaveui?logo=npm&logoColor=fff)](https://www.npmjs.com/package/swaveui)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/toubielawbar/swaveui/js.yml?branch=main&label=JS%20Tests&logo=github)](https://github.com/toubielawbar/swaveui/actions/workflows/js.yml?query=workflow%3AJS+branch%3Amain)
+<!-- ![Build Status](https://github.com/toubielawbar/swaveui/actions/workflows/WORKFLOW-FILE/badge.svg)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/toubielawbar/swaveui/js.yml?branch=main&label=JS%20Tests&logo=github)](https://github.com/toubielawbar/swaveui/actions/workflows/js.yml?query=workflow%3AJS+branch%3Amain) -->
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![npm](https://img.shields.io/npm/dm/swaveui.svg)
 [![](https://data.jsdelivr.com/v1/package/npm/swaveui/badge)](https://www.jsdelivr.com/package/npm/swaveui)
 
