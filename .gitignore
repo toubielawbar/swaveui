@@ -10,6 +10,7 @@
 node_modules
 dist
 scss
+swaveui-utilities
 
 
 *.zip

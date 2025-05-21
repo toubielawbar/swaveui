@@ -1,6 +1,6 @@
 {
   "name": "swaveui",
-  "version": "0.0.3",
+  "version": "0.0.2",
   "description": "SwaveUI is a versatile CSS framework designed to simplify the process of creating beautiful and responsive user interfaces and websites.",
   "main": "dist/css/swaveui.min.css",
   "scripts": {
@@ -37,7 +37,9 @@
   "devDependencies": {
     "gulp": "^5.0.0",
     "gulp-clean-css": "^4.3.0",
+    "gulp-ignore": "^3.0.0",
     "gulp-rename": "^2.0.0",
+    "gulp-sourcemaps": "^3.0.0",
     "gulp-uglify": "^3.0.2"
   }
 }
